@@ -22,3 +22,15 @@ If everything has gone right, a window will  pop up as in the below figure:
 <br><br>
 <img src="images\Screenshot (24).png">
 <br><br>
+
+**some more pics**
+
+demo of drawing
+<br><br>
+<img src="images\Screenshot (25).png">
+<br><br>
+
+demo of drawing with hand gesture
+<br><br>
+<img src="images\Screenshot (26).png">
+<br><br>
