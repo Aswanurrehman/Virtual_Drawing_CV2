@@ -1,4 +1,4 @@
-from handTracker import *
+from handTracker_file import *
 import cv2
 import mediapipe as mp
 import numpy as np
